@@ -27,3 +27,5 @@ scikit-image
 # this is a workaround to the issue.
 pillow==4.1.1
 wget
+pygments>=2.7.4 # not directly required, pinned by Snyk to avoid a vulnerability
+pyyaml>=4.2b1 # not directly required, pinned by Snyk to avoid a vulnerability
