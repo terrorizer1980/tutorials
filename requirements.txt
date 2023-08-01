@@ -1,6 +1,6 @@
 # Refer to ./jenkins/build.sh for tutorial build instructions
 
-sphinx==1.8.2
+sphinx==3.3.0
 sphinx-gallery==0.3.1
 tqdm
 numpy
@@ -11,7 +11,7 @@ torchtext
 torchaudio
 PyHamcrest
 bs4
-awscli==1.16.35
+awscli==1.16.213
 flask
 spacy
 
